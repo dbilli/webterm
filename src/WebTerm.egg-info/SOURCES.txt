@@ -1,0 +1,8 @@
+setup.py
+src/WebTerm.egg-info/PKG-INFO
+src/WebTerm.egg-info/SOURCES.txt
+src/WebTerm.egg-info/dependency_links.txt
+src/WebTerm.egg-info/entry_points.txt
+src/WebTerm.egg-info/top_level.txt
+src/webterm/__init__.py
+src/webterm/webterm.py

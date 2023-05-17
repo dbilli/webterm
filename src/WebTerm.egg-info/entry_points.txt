@@ -1,0 +1,3 @@
+[console_scripts]
+webterm = webterm.webterm:webterm_main
+
